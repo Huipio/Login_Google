@@ -1,0 +1,5 @@
+ID de cliente
+529950695462-3l3rngnuh4a69vh3dtdugp7mlbeuelq9.apps.googleusercontent.com
+
+Secreto de cliente
+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
